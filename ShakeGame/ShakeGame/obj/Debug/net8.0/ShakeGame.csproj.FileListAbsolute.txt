@@ -1,0 +1,14 @@
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\bin\Debug\net8.0\ShakeGame.exe
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\bin\Debug\net8.0\ShakeGame.deps.json
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\bin\Debug\net8.0\ShakeGame.runtimeconfig.json
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\bin\Debug\net8.0\ShakeGame.dll
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\bin\Debug\net8.0\ShakeGame.pdb
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.AssemblyInfoInputs.cache
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.AssemblyInfo.cs
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.csproj.CoreCompileInputs.cache
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.dll
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\refint\ShakeGame.dll
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.pdb
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ShakeGame.genruntimeconfig.cache
+C:\Users\79969\source\repos\ShakeGame\ShakeGame\obj\Debug\net8.0\ref\ShakeGame.dll
